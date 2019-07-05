@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-
 import './styles/BadgeDetails.css';
 import confLogo from '../images/confeLogo.svg';
 import Badge from '../components/Badge';
